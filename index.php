@@ -63,7 +63,7 @@ $conn->close();
     <div class="login-container">
         <div class="login-box">
             <h1>Iniciar Sesión</h1>
-            <p>User:Admin Password:123456</p>
+            <p>User:admin Password:123456</p>
             <?php if (isset($error)): ?>
                 <div class="error">
                     <?php echo htmlspecialchars($error); ?>
