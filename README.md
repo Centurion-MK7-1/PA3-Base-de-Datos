@@ -2,11 +2,15 @@
 Pagina Web simple 
 
 Programas:
+
 -XAMPP
+
 -MYSQL
+
 -APACHE
 
 USUARIO:
+
 Admin
 
 123456
